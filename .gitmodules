@@ -1,0 +1,3 @@
+[submodule "acs-packaging"]
+	path = acs-packaging
+	url = git://github.com/killerboot/acs-packaging.git
